@@ -1,4 +1,9 @@
 streamlit
-numpy
-joblib
 streamlit-extras
+joblib
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
